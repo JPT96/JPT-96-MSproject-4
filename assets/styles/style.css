@@ -1,3 +1,6 @@
 body{}
 
 .navbar-brand{}
+
+.home-image{background-color: aqua;
+height: 100vh;}
