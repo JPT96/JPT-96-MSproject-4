@@ -3,4 +3,9 @@ body{}
 .navbar-brand{}
 
 .home-image{background-color: aqua;
-height: 100vh;}
+height: 100vh;
+background: url("/assets/landing.jpg") no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;}
