@@ -1,18 +1,10 @@
-.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-    width: 100%;
-    padding-right: var(--bs-gutter-x,.75rem);
-    padding-left: var(--bs-gutter-x,.75rem);
-    margin-right: auto;
-    margin-left: auto;
-    background-color: darkgrey;
-}
 
 .navbar-brand{}
 .display-4 {
 margin-top: 50px;
 }
-.jumbotron .jumbotron-fluid{
-    background-color: transparent;
+.container.home-bio.jumbotron.jumbotron-fluid {
+    background-color: darkgray;
 }
 .home-image{background-color: aqua;
 height: 100vh;
