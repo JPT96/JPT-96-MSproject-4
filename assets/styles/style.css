@@ -1,7 +1,9 @@
-body{}
+
 
 .navbar-brand{}
-
+.display-4 .lead{
+margin-top: 25vh;
+}
 .home-image{background-color: aqua;
 height: 100vh;
 background: url("/assets/landing.jpg") no-repeat center center fixed; 
