@@ -1,8 +1,8 @@
 
 
 .navbar-brand{}
-.display-4 .lead{
-margin-top: 25vh;
+.display-4 {
+margin-top: 50px;
 }
 .home-image{background-color: aqua;
 height: 100vh;
