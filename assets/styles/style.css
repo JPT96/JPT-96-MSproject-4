@@ -14,3 +14,9 @@ background: url("/assets/landing.jpg") no-repeat center center fixed;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;}
+footer{height:150px;
+}
+.social-media{text-align: center;
+}
+.social-media > li {display: inline; }
+.social-media  i { font-size: 160%;}
