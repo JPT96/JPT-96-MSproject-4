@@ -31,7 +31,8 @@ footer{height:150px;
 
 /* Reserrvation Page */
 
-.container-fluid .reserve-page{
+.reserve-page{
     background: url("/assets/reserve.jpg") no-repeat center center fixed;
+    height:100vh;
 
 }
