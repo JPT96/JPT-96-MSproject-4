@@ -1,7 +1,7 @@
-
+/* Home Page*/
 .navbar-brand{}
 .display-4 {
-margin-top: 50px;
+margin-top: 25vh;
 }
 .container.home-bio.jumbotron.jumbotron-fluid {
     
@@ -16,6 +16,11 @@ background: url("/assets/landing.jpg") no-repeat center center fixed;
 background-size: cover;}
 footer{height:150px;
 }
+.quotes.col-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    margin-top: 15vh;
+}
 .social-media{text-align: center;
 }
 .social-media > li {
@@ -23,3 +28,10 @@ footer{height:150px;
     margin-left: 40px;
 }
 .social-media  i { font-size: 160%;}
+
+/* Reserrvation Page */
+
+.container-fluid .reserve-page{
+    background: url("/assets/reserve.jpg") no-repeat center center fixed;
+
+}
