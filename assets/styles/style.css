@@ -36,3 +36,7 @@ footer{height:150px;
     height:100vh;
 
 }
+.reserve-bio.display-4 {
+    background-color: darkgray;
+    margin-top: 15vh;
+}
