@@ -29,7 +29,7 @@ footer{height:150px;
 }
 .social-media  i { font-size: 160%;}
 
-/* Reserrvation Page */
+/* Reservation Page */
 
 .reserve-page{
     background: url("/assets/reserve.jpg") no-repeat center center fixed;
@@ -39,4 +39,7 @@ footer{height:150px;
 .reserve-bio.display-4 {
     background-color: darkgray;
     margin-top: 15vh;
+font-size: 40px;}
+p{
+    margin-top:15px;
 }
