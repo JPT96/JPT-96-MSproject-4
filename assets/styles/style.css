@@ -43,3 +43,6 @@ font-size: 40px;}
 p{
     margin-top:15px;
 }
+.hvr-sweep-to-top:before {
+   background:rgba(0,0,0,0.2);
+}
