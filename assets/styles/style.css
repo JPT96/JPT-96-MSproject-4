@@ -31,13 +31,11 @@ footer{height:150px;
 
 /* Reservation Page */
 
-.reserve-page{
-    background: url("/assets/reserve.jpg") no-repeat center center fixed;
-    height:100vh;
-
+.reserve-body{
+  background-color: #e2b9b9;
 }
 .reserve-bio.display-4 {
-    background-color: darkgray;
+    
     margin-top: 15vh;
 font-size: 40px;}
 p{
