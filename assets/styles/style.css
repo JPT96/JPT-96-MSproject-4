@@ -82,3 +82,6 @@ p{
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
   }
+  .nav-item{
+    margin-left: 20px;
+  }
