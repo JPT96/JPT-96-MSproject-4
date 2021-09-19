@@ -1,4 +1,8 @@
 /* Home Page*/
+h1{
+  font-weight: 400;
+  letter-spacing: 2px;
+}
 .navbar-brand{}
 .display-4 {
 margin-top: 25vh;
