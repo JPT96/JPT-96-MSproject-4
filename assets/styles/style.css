@@ -1,11 +1,14 @@
 /* Home Page*/
+body{
+  font-family: 'Lato', sans-serif;
+}
 footer{
   margin-top: 40px;
 }
 a{ margin-top: 20px;
   color:#e66465 ;
 }
-h1{
+h1{font-family: 'Roboto', sans-serif;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -48,7 +51,7 @@ footer{height:150px;
     letter-spacing: 2px;
     margin-top: 15vh;
 font-size: 40px;}
-p{
+p{ font-family: 'Lato', sans-serif;
     margin-top:15px;
 }
 .hvr-sweep-to-top {
