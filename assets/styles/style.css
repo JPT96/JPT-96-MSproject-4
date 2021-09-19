@@ -1,4 +1,10 @@
 /* Home Page*/
+footer{
+  margin-top: 40px;
+}
+a{ margin-top: 20px;
+  color:#e66465 ;
+}
 h1{
   font-weight: 400;
   letter-spacing: 2px;
